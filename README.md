@@ -161,7 +161,7 @@ Income remains **highly concentrated** globally.
 ![Executive Overview](https://github.com/mudita117/Global-Income-Inequality-Dashboard/blob/main/Executive%20Overview.png)
 
 ## Economic Drivers
-![Economic Drivers]()
+![Economic Drivers](https://github.com/mudita117/Global-Income-Inequality-Dashboard/blob/main/Economic%20Drivers.png)
 
 ## Inequality Trends
 ![Inequality Trends]()
