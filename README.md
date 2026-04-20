@@ -167,4 +167,4 @@ Income remains **highly concentrated** globally.
 ![Inequality Trends](https://github.com/mudita117/Global-Income-Inequality-Dashboard/blob/main/Inequality%20Trends.png)
 
 ## Insights & Conclusions
-![Insights]()
+![Insights](https://github.com/mudita117/Global-Income-Inequality-Dashboard/blob/main/Insights%20%26%20Conclusion.png)
